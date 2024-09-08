@@ -1,0 +1,60 @@
+{
+    "total_trophies": 47,
+    "league_titles" : {
+        "name": "League Titles",
+        "total_number": 20,
+        "years": [1908, 1911, 1952, 1956, 1957, 1965, 1967,
+                  1993, 1994, 1996, 1997, 1999, 2000, 2001,
+                  2003, 2007, 2008, 2009, 2011, 2013],
+        "imgSrc": "/images/premtrophybw.png"
+    },
+    "champs_league" : {
+        "name" : "UEFA Champions League",
+        "total_number" : 3,
+        "years": [1968, 1999, 2008],
+        "imgSrc": "/images/champstrophybw.png"
+    },
+    "fa_cup" : {
+        "name": "FA Cup",
+        "total_number" : 13,
+        "years": [1909, 1948, 1963, 1977, 1983, 1985, 1990,
+                  1994, 1996, 1999, 2004, 2016, 2024],
+        "imgSrc": "/images/facupbw.png"
+    },
+    "league_cup" : {
+        "name" : "League Cup",
+        "total_number" : 6,
+        "years" : [1992, 2006, 2009, 2010, 2017, 2023],
+        "imgSrc": "/images/eflcupbw.png"
+    },
+    "europa_league" : {
+        "name": "UEFA Europa League",
+        "total_number" : 1,
+        "years" : [2017],
+        "imgSrc": "/images/europaleaguebw.png"
+    },
+    "super_cup" : {
+        "name" : "UEFA Super Cup",
+        "total_number" : 1,
+        "years" : [1991],
+        "imgSrc": "/images/uefasupercupbw.png"
+    },
+    "club_world_cup" : {
+        "name" : "FIFA Club World Cup",
+        "total_number" : 1,
+        "years" : [2008],
+        "imgSrc": "/image/clubworldcupbw.png"
+    },
+    "cup_winners" : {
+        "name": "UEFA Cup Winners' Cup",
+        "total_number": 1,
+        "years": [1991],
+        "imgSrc": "/images/cupwinnerscupbw.png"
+    },
+    "intercontinental" : {
+        "name" : "Intercontinental Cup",
+        "total_number" : 1,
+        "years": [1999],
+        "imgSrc": "/images/intercontinentalbw.png"
+    }
+}

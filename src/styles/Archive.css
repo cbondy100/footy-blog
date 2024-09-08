@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.archive-page {
+    width: 60%;
+    min-width: 700px;
+    margin:auto;
+    padding: 15px;
+}
+
+.archive-header {
+    font-size: 26px;
+    text-align: left;
+    margin-bottom: 12px;
+    font-family:"Montserrat", sans-serif;
+    font-weight: 700;
+}
+
+.search-bar {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.archive-content-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+}
+
+.archive-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 30px;
+    width: 100%;
+    grid-auto-rows: minmax(300px, auto); /* Ensures consistent row height */
+}
+

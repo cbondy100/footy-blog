@@ -1,0 +1,425 @@
+{
+    "total_trophies": 47,
+    "league_titles" : {
+        "name": "League Title",
+        "total_number": 20,
+        "years": [
+            {
+                "year": 1908,
+                "total_points": 52,
+                "wins": 23,
+                "losses": 9,
+                "ties": 6,
+                "runner_up": "Aston Villa"
+            },
+            {
+                "year": 1911,
+                "total_points": 52,
+                "wins": 22,
+                "losses": 8,
+                "ties": 8,
+                "runner_up": "Aston Villa"
+            },
+            {
+                "year": 1952,
+                "total_points": 57,
+                "wins": 23,
+                "losses": 8,
+                "ties": 11,
+                "runner_up": "Tottenham Hotspur"
+            },
+            {
+                "year": 1956,
+                "total_points": 60,
+                "wins": 25,
+                "losses": 7,
+                "ties": 10,
+                "runner_up": "Blackpool"
+            },
+            {
+                "year": 1957,
+                "total_points": 64,
+                "wins": 28,
+                "losses": 6,
+                "ties": 8,
+                "runner_up": "Tottenham Hotspur"
+            },
+            {
+                "year": 1965,
+                "total_points": 61,
+                "wins": 26,
+                "losses": 7,
+                "ties": 9,
+                "runner_up": "Leeds United"
+            },
+            {
+                "year": 1967,
+                "total_points": 60,
+                "wins": 24,
+                "losses": 6,
+                "ties": 12,
+                "runner_up": "Nottingham Forest"
+            },
+            {
+                "year": 1993,
+                "total_points": 84,
+                "wins": 24,
+                "losses": 6,
+                "ties": 12,
+                "runner_up": "Aston Villa"
+            },
+            {
+                "year": 1994,
+                "total_points": 92,
+                "wins": 27,
+                "losses": 4,
+                "ties": 11,
+                "runner_up": "Blackburn Rovers"
+            },
+            {
+                "year": 1996,
+                "total_points": 82,
+                "wins": 25,
+                "losses": 6,
+                "ties": 7,
+                "runner_up": "Newcastle"
+            },
+            {
+                "year": 1997,
+                "total_points": 75,
+                "wins": 21,
+                "losses": 5,
+                "ties": 12,
+                "runner_up": "Newcastle"
+            },
+            {
+                "year": 1999,
+                "total_points": 79,
+                "wins": 22,
+                "losses": 3,
+                "ties": 13,
+                "runner_up": "Arsenal"
+            },
+            {
+                "year": 2000,
+                "total_points": 91,
+                "wins": 28,
+                "losses": 3,
+                "ties": 7,
+                "runner_up": "Arsenal"
+            },
+            {
+                "year": 2001,
+                "total_points": 80,
+                "wins": 24,
+                "losses": 6,
+                "ties": 8,
+                "runner_up": "Arsenal"
+            },
+            {
+                "year": 2003,
+                "total_points": 83,
+                "wins": 25,
+                "losses": 5,
+                "ties": 8,
+                "runner_up": "Arsenal"
+            },
+            {
+                "year": 2007,
+                "total_points": 89,
+                "wins": 28,
+                "losses": 5,
+                "ties": 5,
+                "runner_up": "Chelsea"
+            },
+            {
+                "year": 2008,
+                "total_points": 87,
+                "wins": 27,
+                "losses": 5,
+                "ties": 6,
+                "runner_up": "Chelsea"
+            },
+            {
+                "year": 2009,
+                "total_points": 90,
+                "wins": 28,
+                "losses": 4,
+                "ties": 6,
+                "runner_up": "Liverpool"
+            },
+            {
+                "year": 2011,
+                "total_points": 80,
+                "wins": 23,
+                "losses": 4,
+                "ties": 11,
+                "runner_up": "Chelsea"
+            },
+            {
+                "year": 2013,
+                "total_points": 89,
+                "wins": 28,
+                "losses": 5,
+                "ties": 5,
+                "runner_up": "Manchester City"
+            }
+        ],
+        "imgSrc": "/images/premtrophybw.png"
+    },
+    "champs_league" : {
+        "name" : "UEFA Champions League",
+        "total_number" : 3,
+        "years": [{
+            "year": 1968,
+            "scoreline": "4-1",
+            "opponent": "Benfica",
+            "goalscorers": [
+                "Bobby Charlton",
+                "George Best",
+                "Brian Kidd",
+                "Bobby Charlton"
+            ],
+            "location": "Wembley Stadium, London"
+        },
+        {
+            "year": 1999,
+            "scoreline": "2-1",
+            "opponent": "Bayern Munich",
+            "goalscorers": [
+                "Teddy Sheringham",
+                "Ole Solskaer"
+            ],
+            "location": "Camp Nou, Barcelona"
+        },
+        {
+            "year": 2008,
+            "scoreline": "1(6-5)1",
+            "opponent": "Chelsea",
+            "goalscorers": [
+                "Cristiano Ronaldo"
+            ],
+            "location": "Luzhniki Stadium, Moscow"
+        }],
+        "imgSrc": "/images/champstrophybw.png"
+    },
+    "fa_cup": {
+        "name": "FA Cup",
+        "total_number": 13,
+        "years": [
+            {
+                "year": 1909,
+                "scoreline": "1-0",
+                "opponent": "Bristol City",
+                "goalscorers": ["Sandy Turnbull"],
+                "location": "Crystal Palace, London"
+            },
+            {
+                "year": 1948,
+                "scoreline": "4-2",
+                "opponent": "Blackpool",
+                "goalscorers": ["Jack Rowley (2)", 
+                                "Stan Pearson",
+                                "John Anderson"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1963,
+                "scoreline": "3-1",
+                "opponent": "Leicester City",
+                "goalscorers": ["Denis Law", "David Herd (2)"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1977,
+                "scoreline": "2-1",
+                "opponent": "Liverpool",
+                "goalscorers": ["Stuart Pearson", "Jimmy Greenhoff"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1983,
+                "scoreline": "4-0 (Replay)",
+                "opponent": "Brighton & Hove Albion",
+                "goalscorers": ["Bryan Robson (2)", "Norman Whiteside", "Arnold Mühren"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1985,
+                "scoreline": "1-0",
+                "opponent": "Everton",
+                "goalscorers": ["Norman Whiteside"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1990,
+                "scoreline": "1-0 (Replay)",
+                "opponent": "Crystal Palace",
+                "goalscorers": ["Lee Martin"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1994,
+                "scoreline": "4-0",
+                "opponent": "Chelsea",
+                "goalscorers": ["Eric Cantona (2)", "Mark Hughes", "Brian McClair"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1996,
+                "scoreline": "1-0",
+                "opponent": "Liverpool",
+                "goalscorers": ["Eric Cantona"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 1999,
+                "scoreline": "2-0",
+                "opponent": "Newcastle United",
+                "goalscorers": ["Teddy Sheringham", "Paul Scholes"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2004,
+                "scoreline": "3-0",
+                "opponent": "Millwall",
+                "goalscorers": ["Cristiano Ronaldo", "Ruud van Nistelrooy (2)"],
+                "location": "Millennium Stadium, Cardiff"
+            },
+            {
+                "year": 2016,
+                "scoreline": "2-1 (AET)",
+                "opponent": "Crystal Palace",
+                "goalscorers": ["Juan Mata", "Jesse Lingard"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2024,
+                "scoreline": "2-1",
+                "opponent": "Manchester City",
+                "goalscorers": ["Alejandro Garnacho", "Kobbie Mainoo"],
+                "location": "Wembley Stadium, London"
+            }
+        ],
+        "imgSrc": "/images/facupbw.png"
+    },
+    "league_cup": {
+        "name": "League Cup",
+        "total_number": 6,
+        "years": [
+            {
+                "year": 1992,
+                "scoreline": "1-0",
+                "opponent": "Nottingham Forest",
+                "goalscorers": ["Brian McClair"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2006,
+                "scoreline": "4-0",
+                "opponent": "Wigan Athletic",
+                "goalscorers": ["Wayne Rooney (2)", "Louis Saha", "Cristiano Ronaldo"],
+                "location": "Millennium Stadium, Cardiff"
+            },
+            {
+                "year": 2009,
+                "scoreline": "0(4-1)0",
+                "opponent": "Tottenham Hotspur",
+                "goalscorers": ["Penalty Scorers: Ryan Giggs, Carlos Tevez, Cristiano Ronaldo, Anderson"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2010,
+                "scoreline": "2-1",
+                "opponent": "Aston Villa",
+                "goalscorers": ["Michael Owen", "Wayne Rooney"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2017,
+                "scoreline": "3-2",
+                "opponent": "Southampton",
+                "goalscorers": ["Zlatan Ibrahimović (2)", "Jesse Lingard"],
+                "location": "Wembley Stadium, London"
+            },
+            {
+                "year": 2023,
+                "scoreline": "2-0",
+                "opponent": "Newcastle United",
+                "goalscorers": ["Casemiro", "Marcus Rashford"],
+                "location": "Wembley Stadium, London"
+            }
+        ],
+        "imgSrc": "/images/eflcupbw.png"
+    },
+    "europa_league": {
+        "name": "UEFA Europa League",
+        "total_number": 1,
+        "years": [
+            {
+                "year": 2017,
+                "scoreline": "2-0",
+                "opponent": "Ajax",
+                "goalscorers": ["Paul Pogba", "Henrikh Mkhitaryan"],
+                "location": "Friends Arena, Stockholm"
+            }
+        ],
+        "imgSrc": "/images/europaleaguebw.png"
+    },
+    "super_cup": {
+        "name": "UEFA Super Cup",
+        "total_number": 1,
+        "years": [
+            {
+                "year": 1991,
+                "scoreline": "1-0",
+                "opponent": "Red Star Belgrade",
+                "goalscorers": ["Brian McClair"],
+                "location": "Old Trafford, Manchester"
+            }
+        ],
+        "imgSrc": "/images/uefasupercupbw.png"
+    },
+    "club_world_cup": {
+        "name": "FIFA Club World Cup",
+        "total_number": 1,
+        "years": [
+            {
+                "year": 2008,
+                "scoreline": "1-0",
+                "opponent": "LDU Quito",
+                "goalscorers": ["Wayne Rooney"],
+                "location": "International Stadium Yokohama, Yokohama"
+            }
+        ],
+        "imgSrc": "/images/clubworldcupbw.png"
+    },
+    "cup_winners": {
+        "name": "UEFA Cup Winners' Cup",
+        "total_number": 1,
+        "years": [
+            {
+                "year": 1991,
+                "scoreline": "2-1",
+                "opponent": "Barcelona",
+                "goalscorers": ["Mark Hughes (2)"],
+                "location": "Feijenoord Stadion, Rotterdam"
+            }
+        ],
+        "imgSrc": "/images/cupwinnerscupbw.png"
+    },
+    "intercontinental": {
+        "name": "Intercontinental Cup",
+        "total_number": 1,
+        "years": [
+            {
+                "year": 1999,
+                "scoreline": "1-0",
+                "opponent": "Palmeiras",
+                "goalscorers": ["Roy Keane"],
+                "location": "National Stadium, Tokyo"
+            }
+        ],
+        "imgSrc": "/images/intercontinentalbw.png"
+    }
+}

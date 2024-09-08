@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.ql-editor {
+    border: none;
+    min-height: 400px;
+    font-size: 16px;
+    font-family: "Merriweather", serif;
+
+}
+
+.create-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 60%;
+    min-width: 600px;
+    padding: 15px;
+}
+
+.input-fields-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 12px;
+}
+
+.create-article-title {
+    font-size: 24px;
+    font-family: "Montserrat", serif;
+    padding: 10px;
+}
+
+.create-article-content {
+    font-size: 16px;
+    font-family: "Merriweather", serif;
+    min-height: 100px;
+    resize: none;
+    overflow-y: hidden;
+}
+
+.input-fields-container button {
+    width: 50%;
+    margin: auto;
+    height: 50px;
+    font-size: 16px;
+    font-family: "Merriweather", serif;
+    font-weight: bold;
+}

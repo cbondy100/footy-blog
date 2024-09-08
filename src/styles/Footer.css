@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: black;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.footer-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}

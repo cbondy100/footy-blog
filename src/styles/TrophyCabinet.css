@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.trophy-cabinet {
+    width: 70%;
+    margin: auto;
+}
+
+.trophy-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.years-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.year-item {
+    margin:5px;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 16px;
+}
+
+.trophy-image {
+    max-height: 100px;
+    width: auto;
+    display: block;
+}
+
+.year-item :hover {
+    cursor: pointer;
+}
